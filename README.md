@@ -1,1 +1,2 @@
-#https://umejrzukorlic.github.io/quiz-game/
+QUIZ GAME IN REACT js
+https://umejrzukorlic.github.io/quiz-game/
